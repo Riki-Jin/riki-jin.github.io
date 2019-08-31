@@ -11,7 +11,7 @@ github_repo: "https://github.com/riki-jin/riki-jin.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Meh. 许愿银灰能天使推进之王"
+sidebar-about-description: "Fighting gold"
 sidebar-avatar: /img/jz-photo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
